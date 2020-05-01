@@ -116,7 +116,7 @@ projects, deploying is as simple as turning on the feature in your project's
 **Settings** tab.
 
 For the Rails backend, we recommend [Heroku](https://www.heroku.com/). Heroku
-has a free hosting that many students have utilized over the years.
+has a free hosting tier that many students have utilized over the years.
 [They provide a detailed tutorial on how to get your Rails app deployed][heroku deploy].
 
 > **Recommended:** Once you've deployed your project, make sure to do some
