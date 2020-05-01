@@ -10,9 +10,9 @@ option during coding interviews.
 
 For these reasons, taking the time to practice your JS skills is definitely
 worth it during the job search. By upgrading your portfolio project, you can do
-just that while building a clearer example of your abilities. Below are some
-suggestions for what you can do to upgrade your JavaScript project. As
-JavaScript projects are built for the web, suggestions for improving HTML and
+just that while building a clear example of your abilities. Below are some
+suggestions for what you can do to enhance your JavaScript project. As
+JavaScript projects are made for the web, ideas for improving HTML and
 CSS are also included here.
 
 ## Refactor
@@ -41,12 +41,12 @@ For JavaScript in particular:
   difficult to understand how things work.
 - Think about how your code is structured. Most projects start off with a single
   `index.js` that contains _everything_. As a project gets more complex, having
-  everything in a single file can make it difficult to understand what it going
-  on, particulary for someone not familiar with it. First, take some time to
+  everything in a single file can make it challenging to understand what is going
+  on, particularly for someone not familiar with it. First, take some time to
   organize your code so that it reads in a logical order. Second, consider
-  breaking your code out into multiple files. This is not only a good way to
-  refactor, but also to review how everything works. You can load multiple files
-  using HTML `script` tags or
+  breaking your code out into multiple files. This is not only an excellent way to
+  refactor, but also to review how everything works. You can load the different files
+  using HTML `script` tags.
 
 For HTML and CSS:
 
@@ -75,26 +75,26 @@ suggestions specific to your JavaScript project:
 
 For your CSS:
 
-- Establish consistent a consistent theme across your app. CSS is often the last
+- Establish a consistent theme across your app. CSS is often the last
   thing students work on during their JavaScript project, but it can also make
   your app more visually appealing. Non-technical visitors to a website may not
   grasp how complicated the code behind it is, but they can definitely recognize
   a well-designed website.
 - Make your app responsive. Using [media queries][], design your
-  project so it looks good regardless of whichever device it is being view on.
+  project so it looks good regardless of whichever device it is being viewed on.
 
 [media queries]: https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
 
 ## Make Your App Accessible
 
-Another important addition you should consider for your JavaScript project is
+Another vital addition you should consider for your JavaScript project is
 accessibility. The internet is an essential resource for millions of people, but
 many websites lack accessibility options, making them difficult or impossible to
 use for many people.
 
 For more information on web accessibility and why it is important, check out the
 World Wide Web Consortium's [Introduction to Web Accessibility][access]. For
-specific ideas on how you can make your project more accessible,
+specific ideas on how you can make _your project_ more accessible,
 [read through this checklist to help guide you][checklist].
 
 [access]: https://www.w3.org/WAI/fundamentals/accessibility-intro/
@@ -102,12 +102,12 @@ specific ideas on how you can make your project more accessible,
 
 ## Deploy to GitHub
 
-Deploying your project is important for showcasing your skills. Sometimes,
+Deploying your project is essential for showcasing your skills. Sometimes,
 potential employers may utilize a non-technical recruiter to find candidates to
 hire. These recruiters won't be looking at your code on GitHub. Even for
 recruiters or interviewers that have the technical skills to understand your
 code, having a live, functioning example of your work is a way to generate
-interest in your skills.
+interest in your abilities.
 
 There are many ways to deploy HTML and JavaScript sites online. Since your
 projects are already hosted on GitHub, however, we recommend using
@@ -144,8 +144,7 @@ has a free hosting that many students have utilized over the years.
 When your project is fully functioning and looking great, consider recording a
 demonstration of how your app works. Recording a demo allows you to showcase
 features you're particularly proud of. It also means you can provide context to
-your application that may not be apparent from just looking at the application
-itself.
+your application that may not be apparent from just looking at the app itself.
 
 A demo recording should go through the essential parts of your application. One
 bonus that comes from doing this - during interviews, you will often need to
