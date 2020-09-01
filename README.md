@@ -137,7 +137,7 @@ has a free hosting tier that many students have utilized over the years.
 > **deploying a broken app can be worse than not deploying anything!**
 
 [GitHub Pages]: https://pages.github.com/
-[heroku deploy](https://devcenter.heroku.com/articles/getting-started-with-rails5)
+[heroku deploy][https://devcenter.heroku.com/articles/getting-started-with-rails5]
 
 ## Record a Demo Video
 
